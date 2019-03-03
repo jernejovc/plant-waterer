@@ -1,2 +1,2 @@
 # plant-waterer
-Particle based automated watering for plants
+Particle Photon based automated watering for plants
